@@ -1,2 +1,1 @@
-# MyToken
-A bank contract that uses a created token.
+A simple contract in solidity.
